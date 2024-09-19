@@ -6,9 +6,9 @@
    ```
 2. **Запустите docker-compose.yml**
 
-```bash
+   ```bash
     docker-compose build 
     docker-compose up -d
-```
+   ```
 3. **Документация swagger** [по ссылке](http://localhost:45678/swagger-ui/index.html "Swagger-ui")
    
