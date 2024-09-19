@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: find-max-app
+springdoc:
+  swagger-ui:
+    enabled: true
+  api-docs:
+    enabled: true
